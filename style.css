@@ -1,0 +1,43 @@
+body{
+    background:#949be9;
+}
+
+#title, .subtitle{
+    color: white;
+}
+
+.post_title{
+    color: white
+    font-size: 18px;
+    font-style:oblique;
+    font-family: serif
+}
+
+.head{
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    
+
+
+}
+.post_title{
+    color: white;
+    font-size: 16px;
+    font-family: serif;
+}
+    
+
+
+    
+
+}
+
+footer {
+    color: white;
+    font-size: 16px;
+    font-family: serif;
+}
+a,p {
+    color: white;
+}
